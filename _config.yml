@@ -34,7 +34,7 @@ words_per_minute: 200 # 해당 포스트 읽는데 걸리는 시간을 계산하
 comments:
     provider: 'disqus' # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
     disqus:
-        shortname: lastcow # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+        shortname: LastCow # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
     discourse:
         server: # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
     facebook:
@@ -99,7 +99,7 @@ analytics:
 # Site Author
 author:
     name: 'LastCow'
-    avatar: '/assets/images/profile.jpg' # 프로필 이미지, e.g. "/assets/images/bio-photo.jpg"
+    avatar: '/assets/images/profile.JPG' # 프로필 이미지, e.g. "/assets/images/bio-photo.jpg"
     bio: '꾸준히 발전하는 개발자입니다. <br> 지금까지 공부해오고, 하는 것들을 정리합니다.'
     location: 'Republic of Korea'
     email: 'sys19912002@hanmail.net'

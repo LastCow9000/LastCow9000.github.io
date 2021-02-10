@@ -21,7 +21,7 @@ title_separator: '-' # 타이틀 사이 구분자 <title>Welcome to Jekyll | Min
 subtitle: 'With TIL' # 타이틀 아래에 나올 작은 글씨
 name: 'LastCow' # 맨 하단 이름 찍히는 영역
 description: '끊임없이 발전하는 개발자의 블로그' # Meta 태그에 들어가는 영역
-url: 'https://LastCow9000.github.io/' # GitBlog 호스트 주소
+url: 'https://LastCow9000.github.io' # GitBlog 호스트 주소
 baseurl: # subPath https://LastCow9000.github.io/blog라고 하고 싶을 시 "/blog" 라고 적는다.
 repository: 'LastCow9000/LastCow9000.github.io' # GitHub username/repo-name
 teaser: '/assets/images/profile_teaser.png' # 홈페이지 기본 티져 이미지, e.g. "/assets/images/500x300.png"
@@ -91,9 +91,9 @@ social:
 
 # Analytics
 analytics:
-    provider: false # false (default), "google", "google-universal", "google-gtag", "custom"
+    provider: google # false (default), "google", "google-universal", "google-gtag", "custom"
     google:
-        tracking_id:
+        tracking_id: G-EF123341DN
         anonymize_ip: # true, false (default)
 
 # Site Author

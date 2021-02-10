@@ -107,7 +107,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:sys19912002@hanmail.net"
+      # url: "mailto:sys19912002@hanmail.net"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://LastCow9000.github.io"

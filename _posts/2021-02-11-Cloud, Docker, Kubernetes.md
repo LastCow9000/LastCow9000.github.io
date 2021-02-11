@@ -23,13 +23,13 @@ tags: [Docker, Kubernetes, Cloud]
 
 App을 각각 컨테이너화  
 
-![02_App Containerization](2021-02-11-Cloud, Docker, Kubernetes.assets/02_App Containerization.jpg)
+![02_App Containerization](/2021-02-11-Cloud, Docker, Kubernetes.assets/02_App Containerization.jpg)
 
 
 
 ## 도커, 컨테이너를 통한 여러대의 서버 관리에는 한계가 생긴다.
 
-![02_many containers](2021-02-11-Cloud, Docker, Kubernetes.assets/02_many containers.jpg)
+![02_many containers](/2021-02-11-Cloud, Docker, Kubernetes.assets/02_many containers.jpg)
 
 이를 해결하기 위해 컨테이너 오케스트레이션 기술인 **쿠버네티스(Kubernetes)**가 만들어졌다.
 

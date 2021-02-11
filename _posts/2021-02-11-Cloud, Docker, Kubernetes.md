@@ -6,8 +6,6 @@ categories: [Backend]
 tags: [Docker, Kubernetes, Cloud]
 ---
 
-[toc]
-
 ## container?
 
 컨테이너는 **독립된 리눅스 환경을 보장받는** 프로세스다.  
@@ -25,7 +23,7 @@ tags: [Docker, Kubernetes, Cloud]
 
 App을 각각 컨테이너화  
 
->![02_App Containerization](2021-02-11-Cloud, Docker, Kubernetes.assets/02_App Containerization.jpg)
+![02_App Containerization](2021-02-11-Cloud, Docker, Kubernetes.assets/02_App Containerization.jpg)
 
 
 

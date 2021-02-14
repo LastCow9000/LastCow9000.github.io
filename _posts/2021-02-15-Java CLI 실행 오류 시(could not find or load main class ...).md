@@ -30,7 +30,7 @@ java SinglyLinkedList
 
 ![04_vscode java](\assets\ImagesForPosts\04_vscode java.png)
 
-Could not find or load main class
+*Could not find or load main class*
 
 - 아직 리눅스에 익숙치 않아서 생긴 문제인가 싶어서 윈도우의 cmd로도 해보지만 결과는 같았다.
 -  다른 운영체제에서 같은 오류가 발생하는 것이라면 OS문제는 아니였다.
@@ -50,9 +50,9 @@ Could not find or load main class
 
 - 쉽게 말해서 Package명.클래스명 or Package명/클래스명 으로 해줘야 한다.
 
-  ```java
-  java LinkedList.SinglyLinkedList
-  ```
+```java
+java LinkedList.SinglyLinkedList
+```
 
 ![04_solution](\assets\ImagesForPosts\04_solution.png)
 
@@ -60,7 +60,7 @@ Could not find or load main class
 
 ### 결론적으로 다음과 같이 습관을 들이면 좋을 것 같다.
 
-**1. 패키지안으로 들어가지말고 패키지밖의 경로에서 컴파일하고 **
+**1.패키지안으로 들어가지말고 패키지밖의 경로에서 컴파일하고**
 
 ```java
 javac LinkedList/SinglyLinkedList.java

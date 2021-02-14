@@ -1,3 +1,9 @@
+---
+title: 'Java CLI 실행 오류 시(could not find or load main class ...)'
+categories: [java]
+tags: [java, Error]
+---
+
 매번 Java는 이클립스에서만 컴파일하고 실행했었다.
 이번에 WSL2로 `리눅스(우분투)` 환경을 구축하고 `CLI` 환경에 익숙해질겸 
 Java를 컴파일 및 실행을 해보았다.

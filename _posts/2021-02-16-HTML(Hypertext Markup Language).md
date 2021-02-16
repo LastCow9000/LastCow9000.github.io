@@ -55,7 +55,7 @@ HTML 문서의 시작을 알리고 문서의 언어를 설정한다.(en, ko)
 
     > 검색 시 나타나는 대략적인 정보
     >
-  > ![image-20210216150552289](../assets/ImagesForPosts/html/image-20210216150552289.png)
+  > ![image-20210216150552289](/assets/ImagesForPosts/html/image-20210216150552289.png)
   
   
 
@@ -159,7 +159,7 @@ HTML 문서의 시작을 알리고 문서의 언어를 설정한다.(en, ko)
 </ol>
 ```
 
-> ![image-20210216150734467](../assets/ImagesForPosts/html/image-20210216150734467.png)
+> ![image-20210216150734467](/assets/ImagesForPosts/html/image-20210216150734467.png)
 
 
 
@@ -233,7 +233,7 @@ HTML 문서의 시작을 알리고 문서의 언어를 설정한다.(en, ko)
 </table>
 ```
 
-> ![image-20210216151847386](../assets/ImagesForPosts/html/image-20210216151847386.png)
+> ![image-20210216151847386](/assets/ImagesForPosts/html/image-20210216151847386.png)
 >
 > - `colspan`
 >
@@ -249,7 +249,7 @@ HTML 문서의 시작을 알리고 문서의 언어를 설정한다.(en, ko)
 > </table>
 > ```
 >
-> ![image-20210216152618228](../assets/ImagesForPosts/html/image-20210216152618228.png)
+> ![image-20210216152618228](/assets/ImagesForPosts/html/image-20210216152618228.png)
 >
 > - rowspan
 >
@@ -269,7 +269,7 @@ HTML 문서의 시작을 알리고 문서의 언어를 설정한다.(en, ko)
 > </table>
 > ```
 >
-> ![image-20210216152825820](../assets/ImagesForPosts/html/image-20210216152825820.png)
+> ![image-20210216152825820](/assets/ImagesForPosts/html/image-20210216152825820.png)
 
 
 
@@ -282,7 +282,7 @@ HTML 문서의 시작을 알리고 문서의 언어를 설정한다.(en, ko)
 </form>
  ```
 
-> ![image-20210216153935916](../assets/ImagesForPosts/html/image-20210216153935916.png)
+> ![image-20210216153935916](/assets/ImagesForPosts/html/image-20210216153935916.png)
 >
 > - `action` : 데이터를 보낼 url
 > - `method` : http get방식, post방식
@@ -304,7 +304,7 @@ HTML 문서의 시작을 알리고 문서의 언어를 설정한다.(en, ko)
 색선택<input type="color"><br>
  ```
 
-> ![image-20210216155411138](../assets/ImagesForPosts/html/image-20210216155411138.png)
+> ![image-20210216155411138](/assets/ImagesForPosts/html/image-20210216155411138.png)
 >
 > - 주로 사용하는 것들 : text, button, checkbox, radio, password, email, color ...ect
 > - text의 주요 옵션들
@@ -342,7 +342,7 @@ HTML 문서의 시작을 알리고 문서의 언어를 설정한다.(en, ko)
 | article     | 본문의 주 내용이 들어가는 부분을 의미            |
 | footer      | 하단부를 의미                                    |
 
-![image-20210216161929261](../assets/ImagesForPosts/html/image-20210216161929261.png)
+![image-20210216161929261](/assets/ImagesForPosts/html/image-20210216161929261.png)
 
 ​					**잘 사용하면 검색엔진등이 각 부분에 대해 잘 이해 가능하다(SEO)**
 

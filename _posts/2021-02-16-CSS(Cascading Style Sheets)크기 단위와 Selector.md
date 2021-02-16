@@ -72,25 +72,25 @@ tags: [Web, CSS, 단위, Selector]
 </html>
 ```
 
->![image-20210216195402136](../assets/ImagesForPosts/2021-02-16-CSS(Cascading Style Sheets)/image-20210216195402136.png)
+>![image-20210216195402136](/assets/ImagesForPosts/2021-02-16-CSS(Cascading Style Sheets)/image-20210216195402136.png)
 
 
 
 > **em1 size = 32px** 
 >
-> ![image-20210216195546213](../assets/ImagesForPosts/2021-02-16-CSS(Cascading Style Sheets)/image-20210216195546213.png)
+> ![image-20210216195546213](/assets/ImagesForPosts/2021-02-16-CSS(Cascading Style Sheets)/image-20210216195546213.png)
 
 
 
 > **em2 size = 64px**
 >
-> ![image-20210216195624794](../assets/ImagesForPosts/2021-02-16-CSS(Cascading Style Sheets)/image-20210216195624794.png)
+> ![image-20210216195624794](/assets/ImagesForPosts/2021-02-16-CSS(Cascading Style Sheets)/image-20210216195624794.png)
 
 
 
 > **rem1,2 size=32px**
 >
-> ![image-20210216195801372](../assets/ImagesForPosts/2021-02-16-CSS(Cascading Style Sheets)/image-20210216195801372.png)
+> ![image-20210216195801372](/assets/ImagesForPosts/2021-02-16-CSS(Cascading Style Sheets)/image-20210216195801372.png)
 
 
 
@@ -132,7 +132,7 @@ tags: [Web, CSS, 단위, Selector]
 </html>
 ```
 
-> ![image-20210216201047422](../assets/ImagesForPosts/2021-02-16-CSS(Cascading Style Sheets)/image-20210216201047422.png)
+> ![image-20210216201047422](/assets/ImagesForPosts/2021-02-16-CSS(Cascading Style Sheets)/image-20210216201047422.png)
 
 
 
@@ -204,7 +204,7 @@ tags: [Web, CSS, 단위, Selector]
   </body>
   ```
 
-  > ![image-20210216204816412](../assets/ImagesForPosts/2021-02-16-CSS(Cascading Style Sheets)/image-20210216204816412.png)
+  > ![image-20210216204816412](/assets/ImagesForPosts/2021-02-16-CSS(Cascading Style Sheets)/image-20210216204816412.png)
 
   
 
@@ -229,7 +229,7 @@ tags: [Web, CSS, 단위, Selector]
   </body>
   ```
 
-  > ![image-20210216205016328](../assets/ImagesForPosts/2021-02-16-CSS(Cascading Style Sheets)/image-20210216205016328.png)
+  > ![image-20210216205016328](/assets/ImagesForPosts/2021-02-16-CSS(Cascading Style Sheets)/image-20210216205016328.png)
 
 
 
@@ -252,7 +252,7 @@ tags: [Web, CSS, 단위, Selector]
     <h4 want-go="yes im">야너두?</h4>
   ```
 
-  > ![image-20210216205354997](../assets/ImagesForPosts/2021-02-16-CSS(Cascading Style Sheets)/image-20210216205354997.png)
+  > ![image-20210216205354997](/assets/ImagesForPosts/2021-02-16-CSS(Cascading Style Sheets)/image-20210216205354997.png)
 
 
 
@@ -276,7 +276,7 @@ tags: [Web, CSS, 단위, Selector]
   </body>
   ```
 
-  > ![image-20210216205821875](../assets/ImagesForPosts/2021-02-16-CSS(Cascading Style Sheets)/image-20210216205821875.png)
+  > ![image-20210216205821875](/assets/ImagesForPosts/2021-02-16-CSS(Cascading Style Sheets)/image-20210216205821875.png)
 
 
 
@@ -300,7 +300,7 @@ tags: [Web, CSS, 단위, Selector]
   </body>
   ```
 
-  >![image-20210216210536421](../assets/ImagesForPosts/2021-02-16-CSS(Cascading Style Sheets)/image-20210216210536421.png)
+  >![image-20210216210536421](/assets/ImagesForPosts/2021-02-16-CSS(Cascading Style Sheets)/image-20210216210536421.png)
 
   
 
@@ -329,7 +329,7 @@ tags: [Web, CSS, 단위, Selector]
   </body>
   ```
 
-  > ![image-20210216211032341](../assets/ImagesForPosts/2021-02-16-CSS(Cascading Style Sheets)/image-20210216211032341.png)
+  > ![image-20210216211032341](/assets/ImagesForPosts/2021-02-16-CSS(Cascading Style Sheets)/image-20210216211032341.png)
 
 
 
@@ -357,7 +357,7 @@ tags: [Web, CSS, 단위, Selector]
   </body>
   ```
 
-  > ![image-20210216211201818](../assets/ImagesForPosts/2021-02-16-CSS(Cascading Style Sheets)/image-20210216211201818.png)
+  > ![image-20210216211201818](/assets/ImagesForPosts/2021-02-16-CSS(Cascading Style Sheets)/image-20210216211201818.png)
 
 
 

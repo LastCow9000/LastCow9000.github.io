@@ -413,7 +413,7 @@ tags: [Web, CSS, 단위, Selector]
     </body>
     ```
 
-    > ![image-20210220031803525](/assets/ImagesForPosts/2021-02-16-CSS(Cascading Style Sheets)크기 단위와 Selector/image-20210220031803525.png)
+    > ![image-20210220031803525](/assets/ImagesForPosts/2021-02-16-CSS(Cascading Style Sheets)/image-20210220031803525.png)
 
   
 
@@ -442,35 +442,37 @@ tags: [Web, CSS, 단위, Selector]
   </body>
   ```
 
-  > ![image-20210220032140091](/assets/ImagesForPosts/2021-02-16-CSS(Cascading Style Sheets)크기 단위와 Selector/image-20210220032140091.png)
+  > ![image-20210220032140091](/assets/ImagesForPosts/2021-02-16-CSS(Cascading Style Sheets)/image-20210220032140091.png)
 
 - 인접 형제 선택자(Adjacent Sibling Selector) : `+`
 
   - tag1과 동일 레벨에 위치하고 tag1의 바로 뒤에 위치하는 tag2를 선택
 
     -> tag1과 tag2 사이에 다른 tag 위치시 선택 불가
-   ```html
-    <style>
-      h1 + h2 {
-        color: red;
-      }
-      h1 + p {
-        color: blue;
-      }	/* h1과 p 사이에 h2가 있으므로 적용x */
-    </style>
-  </head>
-  <body>
-    <div>
-      <h1>hahaha</h1>
-      <h2>
-        <p>영어가 안되면 야너두스쿨</p>
-      </h2>
-      <p><span>서경석</span>야 너두?</p>
-    </div>
-  </body>  
-   ```
+    
+    ```html
+        <style>
+          h1 + h2 {
+            color: red;
+          }
+          h1 + p {
+            color: blue;
+          }	/* h1과 p 사이에 h2가 있으므로 적용x */
+        </style>
+      </head>
+      <body>
+        <div>
+          <h1>hahaha</h1>
+          <h2>
+            <p>영어가 안되면 야너두스쿨</p>
+          </h2>
+          <p><span>서경석</span>야 너두?</p>
+        </div>
+      </body>  
+    ```
 
-  > ![image-20210220032852730](/assets/ImagesForPosts/2021-02-16-CSS(Cascading Style Sheets)크기 단위와 Selector/image-20210220032852730.png)
+
+  > ![image-20210220032852730](/assets/ImagesForPosts/2021-02-16-CSS(Cascading Style Sheets)/image-20210220032852730.png)
 
   
 
@@ -501,7 +503,7 @@ tags: [Web, CSS, 단위, Selector]
   </body>
   ```
 
-  > ![image-20210220033152005](/assets/ImagesForPosts/2021-02-16-CSS(Cascading Style Sheets)크기 단위와 Selector/image-20210220033152005.png)
+  > ![image-20210220033152005](/assets/ImagesForPosts/2021-02-16-CSS(Cascading Style Sheets)/image-20210220033152005.png)
 
 
 
@@ -555,37 +557,37 @@ tags: [Web, CSS, 단위, Selector]
 
 > 1. 초기화면
 >
-> ![image-20210220034753706](/assets/ImagesForPosts/2021-02-16-CSS(Cascading Style Sheets)크기 단위와 Selector/image-20210220034753706.png)
+> ![image-20210220034753706](/assets/ImagesForPosts/2021-02-16-CSS(Cascading Style Sheets)/image-20210220034753706.png)
 >
 > 
 >
 > 2. 구글로 이동에 마우스 올림
 >
-> ![image-20210220034848627](/assets/ImagesForPosts/2021-02-16-CSS(Cascading Style Sheets)크기 단위와 Selector/image-20210220034848627.png)
+> ![image-20210220034848627](/assets/ImagesForPosts/2021-02-16-CSS(Cascading Style Sheets)/image-20210220034848627.png)
 >
 > 
 >
 > 3. 구글로 이동을 클릭해서 방문한 후
 >
->    ![image-20210220035131072](/assets/ImagesForPosts/2021-02-16-CSS(Cascading Style Sheets)크기 단위와 Selector/image-20210220035131072.png)
+>    ![image-20210220035131072](/assets/ImagesForPosts/2021-02-16-CSS(Cascading Style Sheets)/image-20210220035131072.png)
 >
 >    
 >
 > 4. 인풋 상자에 포커스 있을 시
 >
->    ![image-20210220035341253](/assets/ImagesForPosts/2021-02-16-CSS(Cascading Style Sheets)크기 단위와 Selector/image-20210220035341253.png)
+>    ![image-20210220035341253](/assets/ImagesForPosts/2021-02-16-CSS(Cascading Style Sheets)/image-20210220035341253.png)
 >
 >    
 >
 > 5. 인풋 상자에 포커스 없을 시
 >
-> ![image-20210220035410525](/assets/ImagesForPosts/2021-02-16-CSS(Cascading Style Sheets)크기 단위와 Selector/image-20210220035410525.png)
+> ![image-20210220035410525](/assets/ImagesForPosts/2021-02-16-CSS(Cascading Style Sheets)/image-20210220035410525.png)
 >
 > 
 >
 > 6. 구글로 이동을 클릭하고 있을 시
 >
-> ![image-20210220035459180](/assets/ImagesForPosts/2021-02-16-CSS(Cascading Style Sheets)크기 단위와 Selector/image-20210220035459180.png)
+> ![image-20210220035459180](/assets/ImagesForPosts/2021-02-16-CSS(Cascading Style Sheets)/image-20210220035459180.png)
 
 
 
@@ -634,19 +636,19 @@ tags: [Web, CSS, 단위, Selector]
 
   > 1. 아무것도 선택하지 않은 초기 상태
   >
-  >    ![image-20210220041206322](/assets/ImagesForPosts/2021-02-16-CSS(Cascading Style Sheets)크기 단위와 Selector/image-20210220041206322.png)
+  >    ![image-20210220041206322](/assets/ImagesForPosts/2021-02-16-CSS(Cascading Style Sheets)/image-20210220041206322.png)
   >
   >    
   >
   > 2. 1111 체크
   >
-  >    ![image-20210220041228536](/assets/ImagesForPosts/2021-02-16-CSS(Cascading Style Sheets)크기 단위와 Selector/image-20210220041228536.png)
+  >    ![image-20210220041228536](/assets/ImagesForPosts/2021-02-16-CSS(Cascading Style Sheets)/image-20210220041228536.png)
   >
   >    
   >
   > 3. 2222 체크
   >
-  > ![image-20210220041245044](/assets/ImagesForPosts/2021-02-16-CSS(Cascading Style Sheets)크기 단위와 Selector/image-20210220041245044.png)
+  > ![image-20210220041245044](/assets/ImagesForPosts/2021-02-16-CSS(Cascading Style Sheets)/image-20210220041245044.png)
 
   
 
@@ -701,7 +703,7 @@ tags: [Web, CSS, 단위, Selector]
       </div>
   ```
 
-  > ![image-20210309030847758](/assets/ImagesForPosts/2021-02-16-CSS(Cascading Style Sheets)크기 단위와 Selector/image-20210309030847758.png)
+  > ![image-20210309030847758](/assets/ImagesForPosts/2021-02-16-CSS(Cascading Style Sheets)/image-20210309030847758.png)
 
   
 
@@ -729,7 +731,7 @@ tags: [Web, CSS, 단위, Selector]
       <div>
   ```
 
-  > ![image-20210309031946936](/assets/ImagesForPosts/2021-02-16-CSS(Cascading Style Sheets)크기 단위와 Selector/image-20210309031946936.png)
+  > ![image-20210309031946936](/assets/ImagesForPosts/2021-02-16-CSS(Cascading Style Sheets)/image-20210309031946936.png)
 
   
 
@@ -782,7 +784,7 @@ tags: [Web, CSS, 단위, Selector]
       </div>
   ```
 
-  > ![image-20210309033322284](/assets/ImagesForPosts/2021-02-16-CSS(Cascading Style Sheets)크기 단위와 Selector/image-20210309033322284.png)
+  > ![image-20210309033322284](/assets/ImagesForPosts/2021-02-16-CSS(Cascading Style Sheets)/image-20210309033322284.png)
 
   
 
@@ -821,7 +823,7 @@ tags: [Web, CSS, 단위, Selector]
       </div>
   ```
   
-  > ![image-20210309034241067](/assets/ImagesForPosts/2021-02-16-CSS(Cascading Style Sheets)크기 단위와 Selector/image-20210309034241067.png)
+  > ![image-20210309034241067](/assets/ImagesForPosts/2021-02-16-CSS(Cascading Style Sheets)/image-20210309034241067.png)
   
   
   
@@ -858,11 +860,11 @@ tags: [Web, CSS, 단위, Selector]
 
      > 1. 입력x
      >
-     > ![image-20210309035447507](/assets/ImagesForPosts/2021-02-16-CSS(Cascading Style Sheets)크기 단위와 Selector/image-20210309035447507.png)
+     > ![image-20210309035447507](/assets/ImagesForPosts/2021-02-16-CSS(Cascading Style Sheets)/image-20210309035447507.png)
      >
      > 2. 입력o
      >
-     > ![image-20210309035529235](/assets/ImagesForPosts/2021-02-16-CSS(Cascading Style Sheets)크기 단위와 Selector/image-20210309035529235.png)
+     > ![image-20210309035529235](/assets/ImagesForPosts/2021-02-16-CSS(Cascading Style Sheets)/image-20210309035529235.png)
 
   
 
@@ -892,15 +894,15 @@ tags: [Web, CSS, 단위, Selector]
 
      > 1. 문자+숫자 6글자
      >
-     > ![image-20210309040140595](/assets/ImagesForPosts/2021-02-16-CSS(Cascading Style Sheets)크기 단위와 Selector/image-20210309040140595.png)
+     > ![image-20210309040140595](/assets/ImagesForPosts/2021-02-16-CSS(Cascading Style Sheets)/image-20210309040140595.png)
      >
      > 2. 숫자 7글자
      >
-     > ![image-20210309040217424](/assets/ImagesForPosts/2021-02-16-CSS(Cascading Style Sheets)크기 단위와 Selector/image-20210309040217424.png)
+     > ![image-20210309040217424](/assets/ImagesForPosts/2021-02-16-CSS(Cascading Style Sheets)/image-20210309040217424.png)
      >
      > 3. 숫자 6글자
      >
-     > ![image-20210309040227872](/assets/ImagesForPosts/2021-02-16-CSS(Cascading Style Sheets)크기 단위와 Selector/image-20210309040227872.png)
+     > ![image-20210309040227872](/assets/ImagesForPosts/2021-02-16-CSS(Cascading Style Sheets)/image-20210309040227872.png)
 
 
 
@@ -950,7 +952,7 @@ tags: [Web, CSS, 단위, Selector]
   </body>
 ```
 
-> ![image-20210309042243406](/assets/ImagesForPosts/2021-02-16-CSS(Cascading Style Sheets)크기 단위와 Selector/image-20210309042243406.png)
+> ![image-20210309042243406](/assets/ImagesForPosts/2021-02-16-CSS(Cascading Style Sheets)/image-20210309042243406.png)
 >
 > - 두 번째 문장에 드래그를 해보았다.
 

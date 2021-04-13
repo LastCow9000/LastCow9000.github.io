@@ -1,1 +1,1 @@
-[gitblog](LastCow9000.github.io)
+<a href="LastCow9000.github.io">Git Blog!</a>

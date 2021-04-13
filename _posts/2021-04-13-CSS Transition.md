@@ -197,7 +197,7 @@ div {
 >
 >
 >
->box2 ~ box11까지
+>box6 ~ box11까지
 >
 >![6~11](/assets/ImagesForPosts/2021-04-13-CSS Transition/611.gif)
 

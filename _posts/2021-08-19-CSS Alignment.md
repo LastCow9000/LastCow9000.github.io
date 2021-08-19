@@ -15,14 +15,14 @@ tags: [Web, CSS, Alignment]
 ## 요약 정리
 
 
-###### div 박스 내의 텍스트를 가운데 정렬하려면?
+#### div 박스 내의 텍스트를 가운데 정렬하려면?
 ```css
 - 수평 →  text-align: center
 - 수직 →  line-height: {height에 설정한 높이값과 동일한 값(height: 80px 라면 80px)}
 ```
 
 
-###### flex 관련 가운데 정렬
+#### flex 관련 가운데 정렬
 ```css
 - 수평 → justify-content: center
 - 수직 → align-content: center
@@ -32,10 +32,7 @@ tags: [Web, CSS, Alignment]
 
 
 
-
-
 ## 1. 수평 정렬
-
 
 
 ### inline/inline-block 요소
@@ -57,9 +54,7 @@ tags: [Web, CSS, Alignment]
 </body>
 ```
 
-![스크린샷 2021-08-19 오전 4.16.34](/assets/ImagesForPosts/2021-08-19-CSS Alignment/스크린샷 2021-08-19 오전 4.16.34.png)
-
-
+![스크린샷 2021-08-19 오전 4.16.34](/assets/ImagesForPosts/2021-08-19-CSS Alignment/스크린샷 2021-08-19 오전 4.16.34.png)
 
 
 ### block 요소
@@ -103,9 +98,7 @@ tags: [Web, CSS, Alignment]
 
 - 아래와 같이 기본적으로 수직 정렬됨. 
 
-![스크린샷 2021-08-19 오후 7.47.09](/assets/ImagesForPosts/2021-08-19-CSS Alignment/스크린샷 2021-08-19 오후 7.47.09.png)
-
-
+![스크린샷 2021-08-19 오후 7.47.09](/assets/ImagesForPosts/2021-08-19-CSS Alignment/스크린샷 2021-08-19 오후 7.47.09.png)
 
 - 요소들을 수직 정렬말고 수평 정렬 하려면 inline-block 요소로 변경 후 부모 요소에 `text-align: center`
 
@@ -131,9 +124,7 @@ tags: [Web, CSS, Alignment]
 </body>
 ```
 
-![스크린샷 2021-08-19 오후 7.49.18](/assets/ImagesForPosts/2021-08-19-CSS Alignment/스크린샷 2021-08-19 오후 7.49.18.png)
-
-
+![스크린샷 2021-08-19 오후 7.49.18](/assets/ImagesForPosts/2021-08-19-CSS Alignment/스크린샷 2021-08-19 오후 7.49.18.png)
 
 
 
@@ -163,9 +154,7 @@ tags: [Web, CSS, Alignment]
 </body>
 ```
 
-![스크린샷 2021-08-19 오후 8.11.31](/assets/ImagesForPosts/2021-08-19-CSS Alignment/스크린샷 2021-08-19 오후 8.11.31.png)
-
-
+![스크린샷 2021-08-19 오후 8.11.31](/assets/ImagesForPosts/2021-08-19-CSS Alignment/스크린샷 2021-08-19 오후 8.11.31.png)
 
 #### b. padding이 지정 불가능한 요소일 경우 height와 line-height 값을 같게 지정(여러 줄 일경우 행간이 너무 넓어져서 X)
 
@@ -183,7 +172,7 @@ tags: [Web, CSS, Alignment]
 </body>
 ```
 
-![스크린샷 2021-08-19 오후 8.23.51](/assets/ImagesForPosts/2021-08-19-CSS Alignment/스크린샷 2021-08-19 오후 8.23.51.png)
+![스크린샷 2021-08-19 오후 8.23.51](/assets/ImagesForPosts/2021-08-19-CSS Alignment/스크린샷 2021-08-19 오후 8.23.51.png)
 
 
 
@@ -228,7 +217,7 @@ tags: [Web, CSS, Alignment]
   </body>
 ```
 
-<img src="/assets/ImagesForPosts/2021-08-19-CSS Alignment/스크린샷 2021-08-19 오후 8.38.33.png" alt="스크린샷 2021-08-19 오후 8.38.33" style="zoom:50%;" />
+<img src="/assets/ImagesForPosts/2021-08-19-CSS Alignment/스크린샷 2021-08-19 오후 8.38.33.png" alt="스크린샷 2021-08-19 오후 8.38.33" style="zoom:50%;" />
 
 
 
@@ -288,9 +277,7 @@ tags: [Web, CSS, Alignment]
 </body>
 ```
 
-![스크린샷 2021-08-19 오후 8.51.03](/assets/ImagesForPosts/2021-08-19-CSS Alignment/스크린샷 2021-08-19 오후 8.51.03.png)
-
-
+![스크린샷 2021-08-19 오후 8.51.03](/assets/ImagesForPosts/2021-08-19-CSS Alignment/스크린샷 2021-08-19 오후 8.51.03.png)
 
 
 
@@ -328,11 +315,7 @@ tags: [Web, CSS, Alignment]
 </body>
 ```
 
-
-
-![스크린샷 2021-08-19 오후 9.13.00](/assets/ImagesForPosts/2021-08-19-CSS Alignment/스크린샷 2021-08-19 오후 9.13.00.png)
-
-
+![스크린샷 2021-08-19 오후 9.13.00](/assets/ImagesForPosts/2021-08-19-CSS Alignment/스크린샷 2021-08-19 오후 9.13.00.png)
 
 
 
@@ -371,19 +354,13 @@ tags: [Web, CSS, Alignment]
 </body>
 ```
 
-
-
-![스크린샷 2021-08-19 오후 9.17.28](/assets/ImagesForPosts/2021-08-19-CSS Alignment/스크린샷 2021-08-19 오후 9.17.28.png) 
-
-
+![스크린샷 2021-08-19 오후 9.17.28](/assets/ImagesForPosts/2021-08-19-CSS Alignment/스크린샷 2021-08-19 오후 9.17.28.png)
 
 
 
 - `align-items: center` 미 지정 시
 
-![스크린샷 2021-08-19 오후 9.15.14](/assets/ImagesForPosts/2021-08-19-CSS Alignment/스크린샷 2021-08-19 오후 9.15.14.png)
-
-
+![스크린샷 2021-08-19 오후 9.15.14](/assets/ImagesForPosts/2021-08-19-CSS Alignment/스크린샷 2021-08-19 오후 9.15.14.png)
 
 
 
@@ -422,7 +399,7 @@ tags: [Web, CSS, Alignment]
 </body>
 ```
 
-![스크린샷 2021-08-19 오후 9.31.00](/assets/ImagesForPosts/2021-08-19-CSS Alignment/스크린샷 2021-08-19 오후 9.31.00.png)
+![스크린샷 2021-08-19 오후 9.31.00](/assets/ImagesForPosts/2021-08-19-CSS Alignment/스크린샷 2021-08-19 오후 9.31.00.png)
 
-![스크린샷 2021-08-19 오후 9.32.37](/assets/ImagesForPosts/2021-08-19-CSS Alignment/스크린샷 2021-08-19 오후 9.32.37.png)
+![스크린샷 2021-08-19 오후 9.32.37](/assets/ImagesForPosts/2021-08-19-CSS Alignment/스크린샷 2021-08-19 오후 9.32.37.png)
 
